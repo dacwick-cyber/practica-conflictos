@@ -1,2 +1,4 @@
 # Mi archivo de práctica
 linea 1: Este es el contenido original editado en GitHub
+Linea 2: Agregada desde la rama feature/cambios
+
