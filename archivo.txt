@@ -1,2 +1,2 @@
 # Mi archivo de práctica
-linea 1: Este es el contenido original
+linea 1: Este es el contenido original editado en GitHub
